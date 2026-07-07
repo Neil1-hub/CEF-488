@@ -1,0 +1,14 @@
+LOG: CRITICAL: Today is Thursday!
+LOG: FEELING: Today is Thursday!
+LOG: CRITICAL yam sir
+LOG: CRITICAL the lamb
+LOG: CRITICAL: Today is fine
+LOG: hello
+LOG: CRITICAL: YOO
+LOG: joy
+LOG: CRITICAL: ONLY joy
+LOG: CRITICAL : YES
+LOG: NO
+LOG: CRITICAL: hello
+LOG: CRITICAL: HELLO SIR
+LOG: NORMAL: good
